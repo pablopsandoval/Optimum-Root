@@ -58,7 +58,8 @@ Se simularon múltiples distribuciones de especies para:
 - Calcular probabilidad de ocurrencia por especie
 - Determinar transiciones óptimas entre especies
 - Evaluar la robustez del modelo ante incertidumbre
-  ![image](https://github.com/user-attachments/assets/40be71cf-8d31-4330-a090-5f13cc2f574f)
+- ![image](https://github.com/user-attachments/assets/40be71cf-8d31-4330-a090-5f13cc2f574f)
+
 
 
 ## 📈 Resultados clave
